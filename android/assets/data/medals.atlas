@@ -1,0 +1,145 @@
+
+medals.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+medalDesert
+  rotate: false
+  xy: 2, 1214
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalDesertGrey
+  rotate: false
+  xy: 2, 810
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalField
+  rotate: false
+  xy: 406, 1214
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalFieldGrey
+  rotate: false
+  xy: 2, 406
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalFishers
+  rotate: false
+  xy: 406, 810
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalFishersGrey
+  rotate: false
+  xy: 810, 1214
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalIceland
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalIcelandGrey
+  rotate: false
+  xy: 406, 406
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalJungle
+  rotate: false
+  xy: 810, 810
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalJungleGrey
+  rotate: false
+  xy: 1214, 1214
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMine
+  rotate: false
+  xy: 406, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMineGrey
+  rotate: false
+  xy: 810, 406
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMountain
+  rotate: false
+  xy: 1214, 810
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMountainGrey
+  rotate: false
+  xy: 1618, 1214
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMusicians
+  rotate: false
+  xy: 810, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalMusiciansGrey
+  rotate: false
+  xy: 1214, 406
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalOriental
+  rotate: false
+  xy: 1618, 810
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalOrientalGrey
+  rotate: false
+  xy: 1214, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalVikings
+  rotate: false
+  xy: 1618, 406
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+medalVikingsGrey
+  rotate: false
+  xy: 1618, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1

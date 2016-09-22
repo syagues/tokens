@@ -1,0 +1,103 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bigBanner
+  rotate: false
+  xy: 2, 2
+  size: 800, 500
+  orig: 800, 500
+  offset: 0, 0
+  index: -1
+exitButton
+  rotate: false
+  xy: 806, 352
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+flashButton
+  rotate: false
+  xy: 806, 198
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+homeButton
+  rotate: false
+  xy: 960, 352
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+leftArrowButton
+  rotate: false
+  xy: 806, 44
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lockButtonBlueGrey
+  rotate: false
+  xy: 960, 198
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+lockButtonWhite
+  rotate: false
+  xy: 1114, 352
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+loop2Button
+  rotate: false
+  xy: 960, 44
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+loopButton
+  rotate: false
+  xy: 1114, 198
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+next2Button
+  rotate: false
+  xy: 1268, 352
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+nextButton
+  rotate: false
+  xy: 1114, 44
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+notOkButton
+  rotate: false
+  xy: 1268, 198
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+replayButton
+  rotate: false
+  xy: 1422, 352
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+rightArrowButton
+  rotate: false
+  xy: 1268, 44
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

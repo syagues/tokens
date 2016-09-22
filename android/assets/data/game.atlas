@@ -1,0 +1,33 @@
+
+game.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board4
+  rotate: false
+  xy: 2, 1016
+  size: 1000, 1010
+  orig: 1000, 1010
+  offset: 0, 0
+  index: -1
+board5
+  rotate: false
+  xy: 2, 2
+  size: 1000, 1010
+  orig: 1000, 1010
+  offset: 0, 0
+  index: -1
+board6
+  rotate: false
+  xy: 1006, 1016
+  size: 1000, 1010
+  orig: 1000, 1010
+  offset: 0, 0
+  index: -1
+board7
+  rotate: false
+  xy: 1006, 2
+  size: 1000, 1010
+  orig: 1000, 1010
+  offset: 0, 0
+  index: -1

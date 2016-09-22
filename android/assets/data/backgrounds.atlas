@@ -1,0 +1,47 @@
+
+backgrounds.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgroundDesert
+  rotate: false
+  xy: 2, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundField
+  rotate: false
+  xy: 2, 2
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundJungle
+  rotate: false
+  xy: 546, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundMap
+  rotate: false
+  xy: 546, 2
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundMine
+  rotate: false
+  xy: 1090, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundMountain
+  rotate: false
+  xy: 1090, 2
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1

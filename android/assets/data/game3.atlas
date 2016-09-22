@@ -1,0 +1,33 @@
+
+game3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+board66
+  rotate: false
+  xy: 2, 212
+  size: 1000, 1010
+  orig: 1000, 1010
+  offset: 0, 0
+  index: -1
+exampleBoard1
+  rotate: false
+  xy: 1006, 818
+  size: 400, 404
+  orig: 400, 404
+  offset: 0, 0
+  index: -1
+exampleBoard2
+  rotate: false
+  xy: 1006, 410
+  size: 400, 404
+  orig: 400, 404
+  offset: 0, 0
+  index: -1
+exampleBoard3
+  rotate: false
+  xy: 1006, 2
+  size: 400, 404
+  orig: 400, 404
+  offset: 0, 0
+  index: -1

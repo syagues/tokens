@@ -1,0 +1,40 @@
+
+backgrounds2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+backgroundFishers
+  rotate: false
+  xy: 2, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundIceland
+  rotate: false
+  xy: 2, 2
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundMusicians
+  rotate: false
+  xy: 546, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundOriental
+  rotate: false
+  xy: 546, 2
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
+backgroundVikings
+  rotate: false
+  xy: 1090, 966
+  size: 540, 960
+  orig: 540, 960
+  offset: 0, 0
+  index: -1
