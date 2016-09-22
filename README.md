@@ -4,7 +4,7 @@
 
 Puzzle Android and iOS game made with LibGDX and RoboVM.
 
-Available on [Google Play](https://play.google.com/store/apps/details?id=com.forkstone.tokens.android) (FREE)
+Available on [Google Play](https://play.google.com/store/apps/details?id=com.forkstone.tokens.android) (FREE) and [App Store](https://itunes.apple.com/us/app/tokens!/id1098213893?l=en&ls=1&mt=8) (FREE)
 
 Hope you like it!
 
